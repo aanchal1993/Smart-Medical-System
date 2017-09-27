@@ -1,0 +1,295 @@
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -1px;
+}
+
+#u4028
+{
+	z-index: 2;
+	width: 960px;
+}
+
+#u4029
+{
+	z-index: 7;
+	width: 93px;
+	margin-right: -10000px;
+	left: -2px;
+}
+
+#u4031-4
+{
+	z-index: 3;
+	width: 572px;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 194px;
+}
+
+#u3873
+{
+	z-index: 19;
+	width: 959px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #7F7F7F;
+	padding-bottom: 5px;
+	position: relative;
+}
+
+#u3874-4
+{
+	z-index: 20;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 316px;
+}
+
+#accordionu3875
+{
+	z-index: 24;
+	width: 603px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #7F7F7F;
+	background-color: transparent;
+	margin-left: 178px;
+	margin-top: 34px;
+	position: relative;
+}
+
+#u3880
+{
+	z-index: 25;
+	width: 603px;
+	position: relative;
+}
+
+#u3883-4
+{
+	z-index: 26;
+	width: 591px;
+	min-height: 14px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #DEDEDE;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	line-height: 14px;
+	color: #999999;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u3883-4:hover
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 591px;
+	margin: 0px;
+}
+
+#u3883-4:active
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 591px;
+	margin: 0px;
+}
+
+#u3881
+{
+	z-index: 30;
+	width: 601px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 20px;
+	position: relative;
+}
+
+#u3882-10
+{
+	z-index: 31;
+	width: 496px;
+	min-height: 230px;
+	line-height: 35px;
+	color: #999999;
+	text-align: justify;
+	font-size: 25px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: 9px;
+}
+
+#u3884
+{
+	z-index: 41;
+	width: 603px;
+	position: relative;
+}
+
+#u3887-4
+{
+	z-index: 42;
+	width: 591px;
+	min-height: 14px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #DEDEDE;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	line-height: 14px;
+	color: #999999;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u3887-4:hover
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 591px;
+	margin: 0px;
+}
+
+#u3887-4:active
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 591px;
+	margin: 0px;
+}
+
+#u3883-4.AccordionPanelTabOpen,#u3887-4.AccordionPanelTabOpen
+{
+	background-color: #FFFFFF;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 591px;
+	margin: 0px;
+}
+
+#u3883-4.AccordionPanelTabOpen p,#u3887-4.AccordionPanelTabOpen p
+{
+	color: #4F4F4F;
+	visibility: inherit;
+}
+
+#u3885
+{
+	z-index: 46;
+	width: 601px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u3886-10
+{
+	z-index: 47;
+	width: 366px;
+	min-height: 156px;
+	line-height: 29px;
+	color: #999999;
+	text-align: justify;
+	font-size: 21px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: 9px;
+}
+
+.AccordionPanelTab /* accordion */
+{
+	cursor: pointer;
+}
+
+#u4038
+{
+	z-index: 9;
+	width: 963px;
+	left: -2px;
+	margin-top: 59px;
+}
+
+#u4035
+{
+	z-index: 10;
+	width: 961px;
+	padding-bottom: 22px;
+	margin-right: -10000px;
+}
+
+#u4037-4
+{
+	z-index: 15;
+	width: 62px;
+	margin-right: -10000px;
+	margin-top: 22px;
+	left: 61px;
+}
+
+#u4036-4
+{
+	z-index: 11;
+	width: 97px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 22px;
+	left: 812px;
+}
+
+body
+{
+	padding-top: 35px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

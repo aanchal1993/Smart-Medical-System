@@ -1,0 +1,26 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_a-master.css" crc="4031767524" ref="index:my-room"/>
+    <file name="index.css" crc="502987549" ref="index"/>
+    <file name="my-room.css" crc="426235782" ref="my-room"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:my-room"/>
+    <file name="museutils.js" crc="4291592202" ref="index:my-room"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="form_check.php" crc="4225488401" ref="index"/>
+    <file name="form_throttle.php" crc="425392939" ref="index"/>
+    <file name="form-u78.php" crc="357836231" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:my-room"/>
+  </folder>
+  <folder name="images">
+    <file name="images.jpg" crc="205907915" ref="index:my-room"/>
+    <file name="u111-17.png" crc="440089133" ref="index"/>
+    <file name="u111-17-r.png" crc="292912033" ref="index"/>
+    <file name="u111-17-m.png" crc="261216649" ref="index"/>
+    <file name="u111-17-fs.png" crc="4001031594" ref="index"/>
+  </folder>
+  <file name="index.html" crc="111530297" mt="1429529050955" redirect="true"/>
+  <file name="my-room.html" crc="27280161" mt="1429529077415" redirect="true"/>
+</manifest>

@@ -1,0 +1,134 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_a-master.css" crc="3911233787" ref="emergency:home-copy:index:hospitals:know-you-disease:maternity-homes:cardiac-centre:neuro-centre:register"/>
+    <file name="master_b-master.css" crc="3865838128" ref="apex-hospital:cardiac-arrest:chawla-nursing-home:ashoka-neuro-hospital:fracture:tagore-hospital:cardio-vascular:labor-pain:neuro-muscular:bbc-heart-care:enter-your-room:apex-maternity-hospital"/>
+    <file name="emergency.css" crc="27553529" ref="emergency"/>
+    <file name="home-copy.css" crc="3942223144" ref="home-copy"/>
+    <file name="apex-hospital.css" crc="26608462" ref="apex-hospital"/>
+    <file name="index.css" crc="231721102" ref="index"/>
+    <file name="cardiac-arrest.css" crc="3913946368" ref="cardiac-arrest"/>
+    <file name="chawla-nursing-home.css" crc="3836263116" ref="chawla-nursing-home"/>
+    <file name="ashoka-neuro-hospital.css" crc="483419512" ref="ashoka-neuro-hospital"/>
+    <file name="hospitals.css" crc="175841758" ref="hospitals"/>
+    <file name="fracture.css" crc="152833008" ref="fracture"/>
+    <file name="tagore-hospital.css" crc="329619297" ref="tagore-hospital"/>
+    <file name="know-you-disease.css" crc="27553529" ref="know-you-disease"/>
+    <file name="maternity-homes.css" crc="27553529" ref="maternity-homes"/>
+    <file name="cardio-vascular.css" crc="4284952843" ref="cardio-vascular"/>
+    <file name="cardiac-centre.css" crc="27553529" ref="cardiac-centre"/>
+    <file name="labor-pain.css" crc="283722395" ref="labor-pain"/>
+    <file name="neuro-centre.css" crc="27553529" ref="neuro-centre"/>
+    <file name="neuro-muscular.css" crc="3836027539" ref="neuro-muscular"/>
+    <file name="register.css" crc="420404990" ref="register"/>
+    <file name="bbc-heart-care.css" crc="529033343" ref="bbc-heart-care"/>
+    <file name="enter-your-room.css" crc="206953982" ref="enter-your-room"/>
+    <file name="apex-maternity-hospital.css" crc="514482417" ref="apex-maternity-hospital"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:hospitals:cardiac-centre:neuro-centre:maternity-homes:know-you-disease:cardio-vascular:neuro-muscular:emergency:cardiac-arrest:fracture:labor-pain:register:apex-hospital:ashoka-neuro-hospital:tagore-hospital:bbc-heart-care:apex-maternity-hospital:chawla-nursing-home:home-copy:enter-your-room"/>
+    <file name="museutils.js" crc="4291592202" ref="index:hospitals:cardiac-centre:neuro-centre:maternity-homes:know-you-disease:cardio-vascular:neuro-muscular:emergency:cardiac-arrest:fracture:labor-pain:register:apex-hospital:ashoka-neuro-hospital:tagore-hospital:bbc-heart-care:apex-maternity-hospital:chawla-nursing-home:home-copy:enter-your-room"/>
+    <file name="webpro.js" crc="3903299128" ref="index:hospitals:cardio-vascular:neuro-muscular:cardiac-arrest:fracture:labor-pain:register:apex-hospital:ashoka-neuro-hospital:tagore-hospital:bbc-heart-care:apex-maternity-hospital:chawla-nursing-home:home-copy:enter-your-room"/>
+    <file name="form_check.php" crc="4225488401" ref="index:register:enter-your-room"/>
+    <file name="form_throttle.php" crc="425392939" ref="index:register:enter-your-room"/>
+    <file name="form-u3161.php" crc="4129307049" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:hospitals:home-copy"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:hospitals:cardio-vascular:neuro-muscular:home-copy"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:hospitals:cardio-vascular:neuro-muscular:home-copy"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:hospitals:cardio-vascular:neuro-muscular:home-copy"/>
+    <file name="pie.js" crc="3827607177" ref="index:hospitals:apex-hospital:ashoka-neuro-hospital:tagore-hospital:bbc-heart-care:apex-maternity-hospital:chawla-nursing-home:home-copy"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:hospitals:cardiac-centre:neuro-centre:maternity-homes:know-you-disease:cardio-vascular:neuro-muscular:emergency:cardiac-arrest:fracture:labor-pain:register:apex-hospital:ashoka-neuro-hospital:tagore-hospital:bbc-heart-care:apex-maternity-hospital:chawla-nursing-home:home-copy:enter-your-room"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="cardiac-arrest:fracture:labor-pain:apex-hospital:ashoka-neuro-hospital:tagore-hospital:bbc-heart-care:apex-maternity-hospital:chawla-nursing-home"/>
+    <file name="form-u3333.php" crc="254811317" ref="register"/>
+    <file name="form-u4107.php" crc="159198450" ref="enter-your-room"/>
+  </folder>
+  <folder name="images">
+    <file name="images.jpg" crc="194191134" ref="index:hospitals:cardiac-centre:neuro-centre:maternity-homes:know-you-disease:cardio-vascular:neuro-muscular:emergency:cardiac-arrest:fracture:labor-pain:register:apex-hospital:ashoka-neuro-hospital:tagore-hospital:bbc-heart-care:apex-maternity-hospital:chawla-nursing-home:home-copy:enter-your-room"/>
+    <file name="u3169-17.png" crc="426952035" ref="index"/>
+    <file name="u3169-17-r.png" crc="3886540135" ref="index"/>
+    <file name="u3169-17-m.png" crc="4001324401" ref="index"/>
+    <file name="u3169-17-fs.png" crc="176777863" ref="index"/>
+    <file name="nexusae0_samsung-galaxy-gear-smartwatch-sketch_thumb1.jpg" crc="4000170611" ref="index:home-copy"/>
+    <file name="blank.gif" crc="4208392903" ref="index:hospitals:home-copy"/>
+    <file name="2-patient-monitoring.jpg" crc="4209526046" ref="index:home-copy"/>
+    <file name="dcaeb166-0483-42ef-85f1-4f68acb243bf-1409675868681.jpg" crc="4171116356" ref="index:home-copy"/>
+    <file name="loading.gif" crc="3815509949" ref="index:hospitals:home-copy"/>
+    <file name="u625-4.png" crc="4113856186" ref="index"/>
+    <file name="u989-4.png" crc="287883625" ref="index"/>
+    <file name="u1114-4.png" crc="467055082" ref="hospitals"/>
+    <file name="548979_623684080998994_1945527769_n.jpg" crc="3991017782" ref="hospitals:tagore-hospital"/>
+    <file name="hospital_pic.jpg" crc="296353887" ref="hospitals:bbc-heart-care"/>
+    <file name="634873778166233771_apex institute of management - science.jpg" crc="3789757468" ref="hospitals:apex-hospital:apex-maternity-hospital"/>
+    <file name="slide7.jpg" crc="3893195121" ref="hospitals"/>
+    <file name="th04.jpg" crc="3855116715" ref="hospitals:tagore-hospital"/>
+    <file name="548979_623684080998994_1945527769_n60x60.jpg" crc="209473659" ref="hospitals"/>
+    <file name="hospital_pic60x46.jpg" crc="268574694" ref="hospitals"/>
+    <file name="634873778166233771_apex institute of management - science60x47.jpg" crc="4248711964" ref="hospitals"/>
+    <file name="slide7110x45.jpg" crc="480884932" ref="hospitals"/>
+    <file name="u1758-4.png" crc="3981678264" ref="hospitals"/>
+    <file name="u1766-4.png" crc="498884175" ref="hospitals"/>
+    <file name="u1772-4.png" crc="53060740" ref="hospitals"/>
+    <file name="u3741-4.png" crc="3832187728" ref="cardio-vascular"/>
+    <file name="cardiovasculardisease2.jpg" crc="377619599" ref="cardio-vascular"/>
+    <file name="heart-disease.jpg" crc="3800750878" ref="cardio-vascular"/>
+    <file name="cardiovascular-disease.jpg" crc="414784974" ref="cardio-vascular"/>
+    <file name="u3839-4.png" crc="369855877" ref="neuro-muscular"/>
+    <file name="neuromuscular-diseases-800x800-460x280.jpg" crc="52424309" ref="neuro-muscular"/>
+    <file name="2007-01_03-1.jpg" crc="3821208757" ref="neuro-muscular"/>
+    <file name="23_07_10_small.jpg" crc="245572525" ref="neuro-muscular"/>
+    <file name="u3874-4.png" crc="4211399831" ref="cardiac-arrest"/>
+    <file name="u3936-4.png" crc="120619009" ref="fracture"/>
+    <file name="u3989-4.png" crc="4088478300" ref="labor-pain"/>
+    <file name="u3686-4.png" crc="205278979" ref="register"/>
+    <file name="u3387-17.png" crc="528097594" ref="register"/>
+    <file name="u3387-17-r.png" crc="407014855" ref="register"/>
+    <file name="u3387-17-m.png" crc="4176086255" ref="register"/>
+    <file name="u3387-17-fs.png" crc="4065998286" ref="register"/>
+    <file name="general-surgery.jpg" crc="4155452933" ref="apex-hospital:apex-maternity-hospital"/>
+    <file name="hqdefault1111.jpg" crc="3951319715" ref="apex-hospital:apex-maternity-hospital"/>
+    <file name="u2811-4.png" crc="316599366" ref="apex-hospital"/>
+    <file name="health-4.jpg" crc="244563872" ref="ashoka-neuro-hospital"/>
+    <file name="fe8279b0caa8a451302a10c44d418193.jpg" crc="16320827" ref="ashoka-neuro-hospital"/>
+    <file name="large.jpg" crc="4072445857" ref="ashoka-neuro-hospital"/>
+    <file name="u2932-4.png" crc="316599366" ref="ashoka-neuro-hospital"/>
+    <file name="u2559-4.png" crc="521551715" ref="tagore-hospital"/>
+    <file name="slide7390x160.jpg" crc="246969832" ref="tagore-hospital"/>
+    <file name="u2584-4.png" crc="316599366" ref="tagore-hospital"/>
+    <file name="u2590-4.png" crc="3856022000" ref="bbc-heart-care"/>
+    <file name="slide6.jpg" crc="3863867510" ref="bbc-heart-care"/>
+    <file name="sghs.jpg" crc="151895277" ref="bbc-heart-care"/>
+    <file name="u2684-4.png" crc="316599366" ref="bbc-heart-care"/>
+    <file name="u2879-4.png" crc="316599366" ref="apex-maternity-hospital"/>
+    <file name="ad_chawla1-300x209.gif" crc="4148413472" ref="chawla-nursing-home"/>
+    <file name="15_09.jpg" crc="3870905523" ref="chawla-nursing-home"/>
+    <file name="mental-illness-007.jpg" crc="3834354194" ref="chawla-nursing-home"/>
+    <file name="u3001-4.png" crc="316599366" ref="chawla-nursing-home"/>
+    <file name="u3655-4.png" crc="4113856186" ref="home-copy"/>
+    <file name="u3487-4.png" crc="287883625" ref="home-copy"/>
+    <file name="u4140-17.png" crc="440089133" ref="enter-your-room"/>
+    <file name="u4140-17-r.png" crc="292912033" ref="enter-your-room"/>
+    <file name="u4140-17-m.png" crc="261216649" ref="enter-your-room"/>
+    <file name="u4140-17-fs.png" crc="4001031594" ref="enter-your-room"/>
+  </folder>
+  <file name="index.html" crc="135617170" mt="1429529139525" redirect="true"/>
+  <file name="hospitals.html" crc="314448997" mt="1429226920605" redirect="true"/>
+  <file name="cardiac-centre.html" crc="3805623920" mt="1429125883664" redirect="true"/>
+  <file name="neuro-centre.html" crc="4087515955" mt="1429125890924" redirect="true"/>
+  <file name="maternity-homes.html" crc="3941166966" mt="1429125894629" redirect="true"/>
+  <file name="know-you-disease.html" crc="3841557668" mt="1429079103684" redirect="true"/>
+  <file name="cardio-vascular.html" crc="4219590713" mt="1429518685170" redirect="true"/>
+  <file name="neuro-muscular.html" crc="4260407287" mt="1429518690926" redirect="true"/>
+  <file name="emergency.html" crc="4016638758" mt="1429079214399" redirect="true"/>
+  <file name="cardiac-arrest.html" crc="3884560306" mt="1429518693828" redirect="true"/>
+  <file name="fracture.html" crc="4242198735" mt="1429518698008" redirect="true"/>
+  <file name="labor-pain.html" crc="517236638" mt="1429518700723" redirect="true"/>
+  <file name="register.html" crc="455609286" mt="1429229513825" redirect="true"/>
+  <file name="apex-hospital.html" crc="320302224" mt="1429519582502" redirect="true"/>
+  <file name="ashoka-neuro-hospital.html" crc="236153753" mt="1429519596589" redirect="true"/>
+  <file name="tagore-hospital.html" crc="136781236" mt="1429519554531" redirect="true"/>
+  <file name="bbc-heart-care.html" crc="4230974630" mt="1429519566293" redirect="true"/>
+  <file name="apex-maternity-hospital.html" crc="438079260" mt="1429519608523" redirect="true"/>
+  <file name="chawla-nursing-home.html" crc="3931166032" mt="1429519618897" redirect="true"/>
+  <file name="home-copy.html" crc="262183897" mt="1429519159241" redirect="true"/>
+  <file name="enter-your-room.html" crc="31009969" mt="1429519341340" redirect="true"/>
+</manifest>

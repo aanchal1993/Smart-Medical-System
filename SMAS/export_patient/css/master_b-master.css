@@ -1,0 +1,43 @@
+#u4028
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	position: relative;
+}
+
+#u4031-4
+{
+	line-height: 34px;
+	letter-spacing: 3px;
+	color: #FFFFFF;
+	font-size: 28px;
+	font-weight: bold;
+	position: relative;
+}
+
+#u4029,#u4038
+{
+	position: relative;
+}
+
+#u4035
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	position: relative;
+}
+
+#u4037-4,#u4036-4
+{
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u4037,#u4036
+{
+	color: #FFFFFF;
+}
+
